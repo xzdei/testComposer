@@ -7,7 +7,7 @@
  * Time: 14:12
  */
 
-namespace testcomposerxzdei\core;
+namespace testcomposerxzdei;
 
 
 use GuzzleHttp\Client;
