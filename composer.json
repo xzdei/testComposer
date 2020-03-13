@@ -1,12 +1,14 @@
 {
     "name": "testcomposerxzdei/core",
     "description": "test composer package",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
     "type": "composer-plugin",
     "license": "Apache-2.0",
     "authors": [
         {
             "name": "xzd",
-            "email": "xuzhidong@163.com"
+            "email": "xuzhidongei@163.com"
         }
     ],
     "require": {
