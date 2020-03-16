@@ -1,7 +1,6 @@
 {
     "name": "testcomposerxzdei/core",
     "description": "test composer package",
-    "version": "1.0.0",
     "type": "composer-plugin",
     "license": "Apache-2.0",
     "authors": [
